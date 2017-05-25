@@ -9,7 +9,7 @@ Version:    0.2.9
 Release:    1
 Group:      Qt/Qt
 License:    GPLv3
-URL:        https://github.com/eekkelund/harbour-tIDE
+URL:        https://github.com/eekkelund/harbour-tIDEditor
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   sailfishsilica-qt5 >= 0.10.9, pyotherside-qml-plugin-python3-qt5 >= 1.3
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
@@ -38,10 +38,6 @@ transportable Editor for SailfishOS devices. Just the editor part of tIDE
 rm -rf %{buildroot}
 
 %qmake5_install
-
-
-
-
 
 %files
 %exclude %{_datadir}/%{name}/qml/pages/BuildOutput.qml

@@ -6,7 +6,7 @@ tIDEditor is Jolla Store allowed version of tIDE,  transportable IDE.
 tIDEditor includes just the text editor of tIDE, but it has brilliant text editor features.
 
 These features include:
-* Syntax highlighting ( QML, JS & Python)
+* Syntax highlighting ( QML, JS, Bash & Python)
 *  Line numbers
 * Autosave
 * Themes
@@ -17,6 +17,8 @@ These features include:
 * Launch from terminal (harbour-tide-editor /path/to/file.txt)
 * Change files on the fly
 * Split view. And possibility to move separator
+* Set as default editor
+* Modify system files; Root support
 * ..
 
 All feature suggestions and contributions welcome! :)  
