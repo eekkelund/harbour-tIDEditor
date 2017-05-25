@@ -24,8 +24,10 @@ These features include:
 All feature suggestions and contributions welcome! :)  
 
 
-![tIDEditor](https://github.com/eekkelund/harbour-tIDE/blob/devel/tide/icons/128x128/harbour-tide-editor.png?raw=true "tIDEditor")
+![tIDEditor](https://github.com/eekkelund/tide/blob/devel/icons/128x128/harbour-tide-editor.png?raw=true "tIDEditor")
 
+
+Check also [tIDE](https://github.com/eekkelund/harbour-tIDE), an application for SailfishOS to create new applications on the go!
 
 ## Contributing
 
@@ -38,6 +40,8 @@ All feature suggestions and contributions welcome! :)
 ## History
 
 [Version 0.2.7] Get it from Jolla store! 21/04/2017  
+[Version 0.2.10] Submitted to Jolla store! 25/05/2017  
+
 
 [Changelog](https://github.com/eekkelund/harbour-tIDE/blob/master/rpm/harbour-tide.changes)
 
