@@ -1,8 +1,9 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    tide \
-    roothelper
+    #Harbour rules doesn't like this
+    tide #\
+    #roothelper
 
 OTHER_FILES += \
     rpm/harbour-tide-editor.spec \

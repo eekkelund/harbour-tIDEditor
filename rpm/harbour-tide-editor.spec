@@ -49,10 +49,10 @@ rm -rf %{buildroot}
 %exclude %{_datadir}/%{name}/qml/python/stopProject.py
 %exclude %{_datadir}/%{name}/qml/python/buildRPM.py
 %exclude %{_datadir}/%{name}/qml/python/deleteProject.py
-%defattr(4755,root,root,4755)
-%{_bindir}/harbour-tide-editor-root
 %defattr(-,root,root,-)
 %{_bindir}/%{name}/
 %{_datadir}/%{name}/
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/icons/hicolor/*/apps/%{name}.png
+#%%defattr(4755,root,root,4755)
+#%%{_bindir}/harbour-tide-editor-root

@@ -13,12 +13,12 @@ These features include:
 * Font settings
 * Indentation
 * Redo/Undo
-* Search
+* Search & Replace
 * Launch from terminal (harbour-tide-editor /path/to/file.txt)
 * Change files on the fly
 * Split view. And possibility to move separator
 * Set as default editor
-* Modify system files; Root support
+* Modify system files; Root support #Not in Jolla Store!
 * ..
 
 All feature suggestions and contributions welcome! :)  
@@ -40,7 +40,7 @@ Check also [tIDE](https://github.com/eekkelund/harbour-tIDE), an application for
 ## History
 
 [Version 0.2.7] Get it from Jolla store! 21/04/2017  
-[Version 0.2.10] Submitted to Jolla store! 25/05/2017  
+[Version 0.2.10] Submitted to Jolla store! 08/06/2017  
 
 
 [Changelog](https://github.com/eekkelund/harbour-tIDE/blob/master/rpm/harbour-tide.changes)
